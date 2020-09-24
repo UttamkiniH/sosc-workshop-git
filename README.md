@@ -1,4 +1,4 @@
-# Git-SOSC-Workshop
+# SOSC-Workshop
 ## Hey Developers ! :woman_technologist: :man_technologist:
 
 **Want to know how can we create and submit our first pull Request** :astonished::trophy:
@@ -36,3 +36,7 @@ git clone https://github.com/YOUR_USER_NAME/sosc-workshop-git
  git checkout YOUR_NAME
  ```
  YOUR_NAME is the name given to the branch earlier :point_up_2:
+ 
+  **:green_apple: Step 4 :-**
+  
+  Now that we are in the **sosc-workshop-git** directory, in order to edit the source code :memo: of this website we need to navigate to **dist** folder so that we can open and edit `index.html` file
