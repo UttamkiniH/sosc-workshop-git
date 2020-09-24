@@ -19,3 +19,20 @@ Run the following command in your terminal
 ```bash
 git clone https://github.com/YOUR_USER_NAME/sosc-workshop-git
 ```
+ **:apple: Step 3 :-**
+ 
+ In order to edit the **source code** of this website first we need to navigate to the folder :file_folder: by typing this command
+ ```bash
+ cd sosc-workshop-git
+ ```
+ Since we are adding  some new feature to the file we will do it by :heavy_plus_sign: creating a **seperate branch**. To create a seperate branch in our file type 
+ ```bash
+ git branch YOUR_NAME
+ ```
+ here YOUR_NAME can be any name given to the branch
+ 
+ Since we are in the **master** branch we will change the branch from `master` to your newly created  branch by running this command
+ ```bash
+ git checkout YOUR_NAME
+ ```
+ YOUR_NAME is the name given to the branch earlier :point_up_2:
