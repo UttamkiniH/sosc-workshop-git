@@ -1,2 +1,4 @@
-# sosc-workshop-git
-This website was created in order to demonstrate Github workflow
+# Git-SOSC-Workshop
+## Hey Developers ! :woman_technologist: :man_technologist:
+
+***let me help you to create your first pull-request 
