@@ -40,3 +40,29 @@ git clone https://github.com/YOUR_USER_NAME/sosc-workshop-git
   **:green_apple: Step 4 :-**
   
   Now that we are in the **sosc-workshop-git** directory, in order to edit the source code :memo: of this website we need to navigate to **dist** folder so that we can open and edit `index.html` file
+
+So let us do that First we are openeing **dist** folder by this command
+```bash
+cd dist
+```
+and then to open the `index.html` file run this command
+```bash
+code index.html
+```
+**:x:  code** is a keyword used to open VS code there are different keywords for different editors
+**gedit** for linux to open text editor and  **atom** for atom-ide and plenty more make sure to check the keyword **:x:**
+
+**:green_apple: Step 5 :-**
+
+When the text editor or any ide pops up scroll down :computer_mouse: to the text **your name** in `index.html`file. Rename :pencil: the text to **YOUR_NAME** make sure that you dont rename the other users USER_NAME.
+
+After saving the file :heavy_check_mark: we need to `add`and `commit` the file in order to make changes in our Github Repository :card_file_box:
+
+Run this command to `add` the file
+```bash
+git add index.html
+```
+and to `commit` the file we can run this command
+```bash
+git commit -m "YOUR_MESSAGE"
+```
