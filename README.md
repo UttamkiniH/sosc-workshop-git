@@ -11,7 +11,7 @@ Tag along we are going to a wonderful journey of GitHub :octocat:
 
  **:green_apple: Step 1 :-**
  
- Go to this [Github Repository](https://github.com/UttamkiniH/sosc-workshop-git) and click on `fork` button :fork_and_knife: in top right corner of your window. When you click on the fork button github will take you to the forked repository of youraccount.
+ Go to this [Github Repository](https://github.com/UttamkiniH/sosc-workshop-git) and click on `fork` button :fork_and_knife: in top right corner of your window. When you click on the fork button github will take you to the forked repository of your account.
 
 ----
  
