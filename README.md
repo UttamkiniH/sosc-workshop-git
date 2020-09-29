@@ -86,6 +86,7 @@ Now let us push our changes to our **remote** Github Repository :card_file_box: 
 git push -u origin BRANCH_NAME
 ```
 BRANCH_NAME refers to the name given to your branch in **step 3**
+origin refers to remote repository
 
 ---
 
